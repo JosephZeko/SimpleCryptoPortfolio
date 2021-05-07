@@ -29,7 +29,7 @@ The current data of each coin is gathered from www.coingecko.com via JSON.
 
 ## Screenshots
 [![home-Screen.png](https://i.postimg.cc/hGL7j453/home-Screen.png)](https://postimg.cc/LqssQSRz)
-*
+
 [![dashboard-Screen.png](https://i.postimg.cc/8CQ6Nft6/dashboard-Screen.png)](https://postimg.cc/bZgJRrXy)
-*
+
 [![coinoverview-Screen.png](https://i.postimg.cc/WbyZYHZS/coinoverview-Screen.png)](https://postimg.cc/ZCr0CjVy)
