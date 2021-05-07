@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SCP: Simple Crypto Portfolio</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="web_service_url">https://api.coingecko.com/api/v3/</string>
+    <string name="read_error"> Unable to read coin data</string>
+    <string name="connect_error"> Unable to connect to coingecko.com</string>
+    <string name="app_label">App Label</string>
+    <string name="search_hint">CryptoCoin Name</string>
+    <string name="loading">Loading.......   Please Wait</string>
+    <string name="buyingPrice">Amount Paid Per Coin</string>
+    <string name="fee">Transaction Fee</string>
+    <string name="coinAmount">Coin Amount</string>
+    <string name="MarketData">Market Data</string>
+    <string name="owned">Owned</string>
+    <string name="MarketValue">Market Value</string>
+    <string name="totalProfit">Total Profit</string>
+    <string name="marketRank">Market Rank</string>
+    <string name="low24">Low (24h)</string>
+    <string name="high24">High (24h)</string>
+    <string name="volume">Trading Volume(24h)</string>
+    <string name="circulating">Circulating Supply</string>
+    <string name="transactions">TRANSACTIONS</string>
+    <string name="delete">Delete</string>
+    <string name="trending">Trending Coins</string>
+    <string name="trendingURL">https://api.coingecko.com/api/v3/search/trending</string>
+    <string name="marketdata">Market Data</string>
+    <string name="marketURL">https://api.coingecko.com/api/v3/global</string>
+    <string name="activeCryptos">Amount of Coins</string>
+    <string name="marketAmount">Amount of Markets</string>
+    <string name="totMarketCap">Crypto Market Cap (24h% Change)</string>
+    <string name="totVolume">Total Crypto Volume</string>
+    <string name="btcDominance">Bitcoin Dominance</string>
+    <string name="submit">Submit</string>
+    <string name="accountValue">Portfolio Value:</string>
+    <string name="totalProfitMain">Total Profit:</string>
+    <string name="coinDetail">Coin Overview</string>
+
+
+</resources>

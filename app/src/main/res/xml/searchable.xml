@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/app_label"
+    android:hint="@string/search_hint"
+    android:searchSuggestAuthority="com.example.SimpleCryptoPorfolio.SearchProvider"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:searchSuggestSelection="suggest_text_1 MATCH ?"
+
+    >
+
+</searchable>
