@@ -1,6 +1,7 @@
 # SimpleCryptoPortfolio
 > An android application that tracks the current value of the user's crypto portfolio
 
+[Take me to the code!](https://github.com/JosephZeko/SimpleCryptoPortfolio/tree/master/app/src/main/java/edu/niu/students/z1797401/simplecryptoporfolio)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
